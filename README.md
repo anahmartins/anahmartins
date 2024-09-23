@@ -3,7 +3,6 @@
 - 🔭 Atualmente estou em processo de transição de carreira!
 - 🌱 Estou aprendendo sobre HTML, JavaScript, CSS e GitHub
 - 🤔 Procurando ajuda com tudo relacionado a área de tecnologia!
-- 📫 Como entrar em contato comigo: ana.campos.btu@gmail.com
 - ⚡ Curiosidade: Estou amando explorar tudo nesse novo munda da tecnologia!❤️
   
 <div><br>
