@@ -21,3 +21,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIHUB" height="30" width="40" src="https://github.com/free-icons/archive/blob/master/icons/brands-github.svg">
 </div><br>
+
+[![generate animation](https://github.com/anahmartins/anahmartins/actions/workflows/snake.yml/badge.svg)](https://github.com/anahmartins/anahmartins/actions/workflows/snake.yml)
