@@ -22,4 +22,11 @@
   <img align="center" alt="GIHUB" height="30" width="40" src="https://github.com/free-icons/archive/blob/master/icons/brands-github.svg">
 </div><br>
 
-![snake animation](https://github.com/anahmartins/anahmartins/blob/output/github-contribution-grid-snake2.svg)
+<div align="left">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anahmartins/anahmartins/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anahmartins/anahmartins/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anahmartins/anahmartins/output/snake.svg" />
+</picture>
+</div>
+
