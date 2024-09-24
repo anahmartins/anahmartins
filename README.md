@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou em processo de transição de carreira!
 - 🌱 Estou aprendendo sobre HTML, JavaScript, CSS e GitHub
 - 🤔 Procurando ajuda com tudo relacionado a carreira de desenvolvedor!
-- ⚡ Curiosidade: Estou amando explorar tudo nesse novo munda da tecnologia!❤️
+- ⚡ Curiosidade: Estou amando explorar tudo nesse novo mundo da tecnologia!❤️
   
 <div><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
