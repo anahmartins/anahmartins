@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou em processo de transição de carreira!
 - 🌱 Estou aprendendo sobre HTML, JavaScript, CSS e GitHub
-- 🤔 Procurando ajuda com tudo relacionado a área de tecnologia!
+- 🤔 Procurando ajuda com tudo relacionado a carreira de desenvolvedor!
 - ⚡ Curiosidade: Estou amando explorar tudo nesse novo munda da tecnologia!❤️
   
 <div><br>
