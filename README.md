@@ -7,11 +7,11 @@
   
 <div><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=anahmartins&show_icons=true&theme=shadow_blue"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=anahmartins&show_icons=true&theme=shadow_red"/>
   </a>
   <a>&nbsp;</a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahmartins&layout=compact&theme=shadow_blue"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahmartins&layout=compact&theme=shadow_red"/>
   </a>
 </div>
 
