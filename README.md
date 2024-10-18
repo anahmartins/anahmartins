@@ -14,13 +14,13 @@
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahmartins&layout=compact&theme=shadow_red"/>
   </a>
 </div>
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GIHUB" height="30" width="40" src="https://github.com/free-icons/archive/blob/master/icons/brands-github.svg">
-</div><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,github" />
+  </a>
+</p>
 
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anahmartins/anahmartins/output/github-contribution-grid-snake-dark.svg">
