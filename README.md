@@ -1,4 +1,8 @@
-## Hi there i'm Ana Paula 👋
+<div align="">
+
+  ## <span style="color: red">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+eu+sou+a+Ana!+👋/>+:%29;<Estudante+de+Front-End/>+;<Hello,+I'm+Ana!👋/>+:%29;<Front-End+student/>;)](https://git.io/typing-svg)</span>
+
+  </br>
 
 - 🔭 Atualmente estou em processo de transição de carreira!
 - 🌱 Estou aprendendo sobre HTML, JavaScript, CSS e GitHub
