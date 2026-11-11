@@ -1,6 +1,7 @@
 <div align="">
 
-  ## <span style="color: red">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+eu+sou+a+Ana!+👋/>+:%29;<Estudante+de+Front-End/>+;<Hello,+I'm+Ana!👋/>+:%29;<Front-End+student/>;)](https://git.io/typing-svg)</span>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&color=FF0000&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+eu+sou+a+Ana!+%F0%9F%91%8B;Estudante+de+Front-End;Hello%2C+I'm+Ana!+%F0%9F%91%8B;Front-End+student)](https://github.com/DenverCoder1/readme-typing-svg)
+
 
   </br>
 
