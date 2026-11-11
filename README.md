@@ -10,14 +10,7 @@
 - 🤔 Procurando ajuda com tudo relacionado a carreira de desenvolvedor!
 - ⚡ Curiosidade: Estou amando explorar tudo nesse novo mundo da tecnologia!❤️
   
-<div><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=anahmartins&show_icons=true&theme=shadow_red"/>
-  </a>
-  <a>&nbsp;</a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahmartins&layout=compact&theme=shadow_red"/>
-  </a>
+
 </div>
 <br>
 
@@ -27,8 +20,4 @@
   </a>
 </p>
 
- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anahmartins/anahmartins/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anahmartins/anahmartins/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anahmartins/anahmartins/output/github-contribution-grid-snake.svg">
-  </picture>
+ 
